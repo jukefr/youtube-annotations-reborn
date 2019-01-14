@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "youtube annotations reborn",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "restore youtube annotations",
+    "description": "The description of the application"
+  }
+}
