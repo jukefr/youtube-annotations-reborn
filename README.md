@@ -1,7 +1,6 @@
 # youtube-annotations-reborn
 bring back youtube annotations with a browser extension
 
-
 ## Concept
 
 YouTube has one of the worst developer teams on the market. Either that or they have never seen any user feedback in their entire career at YouTube. Anyhow, apparently their mobile team is so weak that in ~10 years they "never managed to get annotations working on mobile" so they decided the obvious best way to continue from then on was to remove this feature that their own developers can not integrate in their own app.
@@ -18,6 +17,8 @@ Here is a rough idea I had that could potentially make this work :
 5. From there its a simple game of adding new SVG elements when needed (@time) and with the required interactivity (click to go to link etc.)
 
 The hardest part will be the canvas system, mainly keeping it overlayed over the player when you scroll, when you change the video size (small/theatre/full etc). Time synchronisation will probably be easy.
+
+![diagram explained](./diagram.png)
 
 ## Contributing
 I have a lot of work at this moment and might not be able to start on this project straight away. Therefore any contribution is welcomed !
